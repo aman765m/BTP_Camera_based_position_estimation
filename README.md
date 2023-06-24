@@ -21,7 +21,8 @@ As the first step, the camera setup needs to be done is not already. The camera 
 
 Select `interface Options`, then enable legacy camera (/camera)
 
-**PHOTO**
+![image](https://github.com/aman765m/BTP_Camera_based_position_estimation/assets/91495412/68c8f9f0-d6fe-496e-9f30-cb7024de864a)
+
 
 Then select finish and reboot.
 
@@ -54,7 +55,8 @@ IMU communicates with the Pi through I2C protocol, hence permission is needed fo
 
 Select `interface Options`, then enable I2C
 
-**PHOTO**
+![image](https://github.com/aman765m/BTP_Camera_based_position_estimation/assets/91495412/c06d9a5d-1457-4fda-bf97-cb71e384f618)
+
 
 Then select finish and reboot.
 
