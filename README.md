@@ -16,7 +16,8 @@ As the first step, the camera setup needs to be done is not already. The camera 
 ```bash
   sudo raspi-config
 ```
-**PHOTO**
+![image](https://github.com/aman765m/BTP_Camera_based_position_estimation/assets/91495412/ff65b57d-8e44-4b0e-9185-42e11398444a)
+
 
 Select `interface Options`, then enable legacy camera (/camera)
 
@@ -48,7 +49,8 @@ IMU communicates with the Pi through I2C protocol, hence permission is needed fo
   sudo raspi-config
 ```
 
-**PHOTO**
+![image](https://github.com/aman765m/BTP_Camera_based_position_estimation/assets/91495412/d5206497-6b9b-49ce-a566-951d361d31df)
+
 
 Select `interface Options`, then enable I2C
 
